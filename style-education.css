@@ -1,9 +1,9 @@
 
 
-main {
-    /* background-color: black; */
-    /* margin: 2px; */
-}
+/* main {
+    background-color: black;
+    margin: 2px;
+} */
 
 body {
     background-color: antiquewhite;
@@ -64,6 +64,7 @@ body {
     justify-content: right;
     align-items: center;
     height: 90%;
+    padding: 5%;
 }
 
 
